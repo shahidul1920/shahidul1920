@@ -1,6 +1,6 @@
-<--### Hi there 👋
-<h1 class="width:100%; background:red;">hello world</h1>
+### Hi there 👋
 
+<!--
 **shahidul1920/shahidul1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- --/>
-
+-->
