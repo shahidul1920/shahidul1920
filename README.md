@@ -24,7 +24,7 @@ I'm a passionate **Designer, UI/UX, and Front-end Developer** with a strong trac
 ## 🤝 Let's Connect
 
 * **Email:** [shahidulshakil@proton.me](mailto:shahidulshakil@proton.me)
-* **Portfolio:** [shahidulshakil.me](https://shahidulshakil.me)
+* **Portfolio:** [shahidul.dev](https://shahidul.dev/)
 * **GitHub:** [github.com/shahidul1920](https://github.com/shahidul1920)
 * **Behance:** [www.behance.net/shakil-d](https://www.behance.net/shakil-d)
 * **Phone:** +880 1879 539832
