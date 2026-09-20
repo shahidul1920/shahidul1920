@@ -7,7 +7,7 @@ I'm a passionate **Designer, UI/UX, and Front-end Developer** with a strong trac
 * **UI/UX Design:** Figma
 * **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Adobe InDesign
 * **Front-end Development:** HTML, CSS, JavaScript, React, Node.js
-* **Web Development:** WordPress
+* **Web Development:** Headless WordPress
 
 ## 💼 Experience Highlights
 
@@ -27,6 +27,5 @@ I'm a passionate **Designer, UI/UX, and Front-end Developer** with a strong trac
 * **Portfolio:** [shahidul.dev](https://shahidul.dev/)
 * **GitHub:** [github.com/shahidul1920](https://github.com/shahidul1920)
 * **Behance:** [www.behance.net/shakil-d](https://www.behance.net/shakil-d)
-* **Phone:** +880 1879 539832
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities!
